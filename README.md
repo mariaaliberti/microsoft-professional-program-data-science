@@ -5,7 +5,7 @@ https://academy.microsoft.com/en-us/tracks/data-science
 ## About 
 I completed this program on July 25, 2017 on [edx.org](https://edx.org)
 
-<img src="static/MariaAliberti%20MPP%20Certificate%20Data%20Science.png" />
+<img src="static/MariaAliberti-MPP-Certificate.png" />
 
 
 
