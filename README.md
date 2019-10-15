@@ -27,10 +27,7 @@ I completed this program on July 25, 2017 on [edx.org](https://edx.org)
 ### Introduction to Data Science
 https://www.edx.org/course/introduction-to-data-science 
 
-https://github.com/MicrosoftLearning/Data-Science-Orientation 
-
-This course was extremely basic and served as an introduction to the subject and 
-an overview of the the MPP Data Science Track. 
+https://github.com/MicrosoftLearning/Data-Science-Orientation  
 
 
 ### Query Relational Data with Transact-SQL
