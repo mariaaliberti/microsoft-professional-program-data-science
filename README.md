@@ -13,7 +13,7 @@ I completed this program on July 25, 2017 on [edx.org](https://edx.org)
 ## Contents 
 
 ###  In Brief 
-1. Introduction to Data Science
+1. Data Science Orientation
 1. Analyze and Visualize Data with Excel
 1. Query Relational Data with Transact-SQL
 1. Statistical Thinking for Data Science and Analytics 
